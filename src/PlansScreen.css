@@ -1,0 +1,17 @@
+.plansScreen__info {
+    justify-content: space-between;
+}
+
+.plansScreen__info > button {
+    color: white;
+    background-color: red;
+    padding: 10px 20px;
+    font-weight: 600;
+    cursor: pointer;
+
+}
+
+
+.profilescreen__signOut {
+    margin-top: 50px;
+}
